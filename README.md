@@ -1,6 +1,3 @@
-FBAlbums/粉絲相簿
-================
-
 #Description
   FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8) is a iOS app, it support in English and Transitional Chinese.<br>
   It is a easy way to browse your following Facebook page photo album directly. You could also browse the top rate star   Facebook page album. <br>
@@ -11,6 +8,12 @@ FBAlbums/粉絲相簿
 ![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/1.png) <br>
 ![pic2](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/2.png) <br>
 ![pic3](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/3.png) <br>
+
+#How to use it
+*  View all popular facebook pages in "Top Rated" and select which one you like.
+*  Browse its albums and you could mark it as favorite.
+*  List all your liked pages in "Search"
+*  List all your favorite albums in "Favorites"
 
 #Support iOS Version
   iOS 5.1 or above

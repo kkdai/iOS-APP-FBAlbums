@@ -8,9 +8,9 @@ FBAlbums/粉絲相簿
   You can also share your favorite album to your friend or share on Facebook. <br>
 
 #Screen Capture
-![pic1](https://github.com/kkdai/iOS-APP-FBAlbums/blob/master/img/1.0/1.png) <br>
-![pic2](https://github.com/kkdai/iOS-APP-FBAlbums/blob/master/img/1.0/2.png) <br>
-![pic3](https://github.com/kkdai/iOS-APP-FBAlbums/blob/master/img/1.0/3.png) <br>
+![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/1.png) <br>
+![pic2](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/2.png) <br>
+![pic3](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/3.png) <br>
 
 #Support iOS Version
   iOS 5.1 or above

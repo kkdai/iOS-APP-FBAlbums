@@ -23,3 +23,5 @@
   
 #issues
   Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.
+* Fixed #5 [Coach mark will show everytime](https://github.com/kkdai/iOS-APP-FBAlbums/issues/5)
+* Fixed #1 [app crash in 5 sec](https://github.com/kkdai/iOS-APP-FBAlbums/issues/1)

@@ -22,9 +22,9 @@
   English and Tranditional Chinese
 
 #Release History
-* V1.0
+* V1.0 (Release 2014/06/24)
   * Support basic CoreData and FB Album browsing.
-* V1.1
+* V1.1 (Target release by 2014 end of July)
   * Quality improved and performance enhancement.
   * Support Parse which will have following new feature.
     * Realtime TopRated and user can vote your vavorite

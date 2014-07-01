@@ -25,9 +25,9 @@
 * V1.0 (Release 2014/06/24)
   * Support basic CoreData and FB Album browsing.
 * V1.1 (Target release by 2014 end of July)
-  * Quality improved and performance enhancement.
+  * Quality improved and performance enhancement.(done)
   * Support Parse which will have following new feature.
-    * Realtime TopRated and user can vote your vavorite
+    * Realtime TopRated and user can vote your vavorite(done)
     * User can push your Pages to server for other browsing.
   
 
@@ -37,3 +37,4 @@
 * Fixed #1 [app crash in 5 sec](https://github.com/kkdai/iOS-APP-FBAlbums/issues/1)
 * Fixed #7 [Add some notification for "Favorite"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/7)
 * Fixed #6 [Add push notification on specific Fans page](https://github.com/kkdai/iOS-APP-FBAlbums/issues/6)
+* Fixed #9 [Data Parse support](https://github.com/kkdai/iOS-APP-FBAlbums/issues/9)

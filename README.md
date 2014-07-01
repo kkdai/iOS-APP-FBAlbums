@@ -20,9 +20,20 @@
 
 #Support Languages
   English and Tranditional Chinese
+
+#Release History
+* V1.0
+  * Support basic CoreData and FB Album browsing.
+* V1.1
+  * Quality improved and performance enhancement.
+  * Support Parse which will have following new feature.
+    * Realtime TopRated and user can vote your vavorite
+    * User can push your Pages to server for other browsing.
   
+
 #issues
   Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.
 * Fixed #5 [Coach mark will show everytime](https://github.com/kkdai/iOS-APP-FBAlbums/issues/5)
 * Fixed #1 [app crash in 5 sec](https://github.com/kkdai/iOS-APP-FBAlbums/issues/1)
 * Fixed #7 [Add some notification for "Favorite"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/7)
+* Fixed #6 [Add push notification on specific Fans page](https://github.com/kkdai/iOS-APP-FBAlbums/issues/6)

@@ -26,10 +26,10 @@
   * Support basic CoreData and FB Album browsing.
 * V1.1 (Target release by 2014 end of July)
   * Quality improved and performance enhancement.(done)
-  * Support Parse which will have following new feature.
-    * Realtime TopRated and user can vote your vavorite(done)
-    * User can push your Pages to server for other browsing.
-  
+  * Support Parse which will have following new feature.(done)
+    * Realtime TopRated and user can vote your favorite(done)
+    * User can push your Pages to server for other browsing.(done)
+  * iAD support and will low down pricess from 0.99 to 0
 
 #issues
   Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.

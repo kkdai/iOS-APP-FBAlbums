@@ -44,3 +44,4 @@
 * Fixed #10 [Photo loading problem and batch loading](https://github.com/kkdai/iOS-APP-FBAlbums/issues/10)
 * Fixed #12 [Feature Add like/unlike TopRate to voted](https://github.com/kkdai/iOS-APP-FBAlbums/issues/12)
 * Fixed #13 [Add share my Page to other people](https://github.com/kkdai/iOS-APP-FBAlbums/issues/13)
+* Fixed #14 [Add iAD to replace prices](https://github.com/kkdai/iOS-APP-FBAlbums/issues/14)

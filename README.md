@@ -33,6 +33,10 @@
     * Support AIP to remove iAD and support author.  
 * V1.2 (Target 2014 end of August)
   * Album loading improvement.
+  * Support AIP and add more feature
+  * Buffering images
+* TBC
+  * Add support for other album (weibo?)
 
 #issues
   Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.

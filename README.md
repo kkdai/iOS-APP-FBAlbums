@@ -49,3 +49,5 @@
 * Fixed #12 [Feature Add like/unlike TopRate to voted](https://github.com/kkdai/iOS-APP-FBAlbums/issues/12)
 * Fixed #13 [Add share my Page to other people](https://github.com/kkdai/iOS-APP-FBAlbums/issues/13)
 * Fixed #14 [Add iAD to replace prices](https://github.com/kkdai/iOS-APP-FBAlbums/issues/14)
+* Fixed #15 [More page App Icon is not using latest one](https://github.com/kkdai/iOS-APP-FBAlbums/issues/15)
+* Fixed #16 [iAD should hide when full image show.](https://github.com/kkdai/iOS-APP-FBAlbums/issues/16)

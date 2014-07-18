@@ -1,13 +1,15 @@
-#Description
-  FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8) is a iOS app, it support in English and Transitional Chinese.<br>
+#敘述
+  FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8)是一個iOS App，目前支援繁體中文跟英文．<br>
   It is a easy way to browse your following Facebook page photo album directly. You could also browse the top rate star   Facebook page album. <br>
   We also provide you to save your favorite page album in your app without press "like" in Facebook. <br>
   You can also share your favorite album to your friend or share on Facebook. <br>
 
-#Screen Capture
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/1.png) <br>
-![pic2](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/2.png) <br>
-![pic3](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.0/3.png) <br>
+
+#App截圖
+
+請到這裡去看更多的[App截圖](AppScreenShop.md)
+![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_1.png) <br>
+
 
 #How to use it
 *  View all popular facebook pages in "Top Rated" and select which one you like.
@@ -40,14 +42,3 @@
 
 #issues
   Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.
-* Fixed #5 [Coach mark will show everytime](https://github.com/kkdai/iOS-APP-FBAlbums/issues/5)
-* Fixed #1 [app crash in 5 sec](https://github.com/kkdai/iOS-APP-FBAlbums/issues/1)
-* Fixed #7 [Add some notification for "Favorite"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/7)
-* Fixed #6 [Add push notification on specific Fans page](https://github.com/kkdai/iOS-APP-FBAlbums/issues/6)
-* Fixed #9 [Data Parse support](https://github.com/kkdai/iOS-APP-FBAlbums/issues/9)
-* Fixed #10 [Photo loading problem and batch loading](https://github.com/kkdai/iOS-APP-FBAlbums/issues/10)
-* Fixed #12 [Feature Add like/unlike TopRate to voted](https://github.com/kkdai/iOS-APP-FBAlbums/issues/12)
-* Fixed #13 [Add share my Page to other people](https://github.com/kkdai/iOS-APP-FBAlbums/issues/13)
-* Fixed #14 [Add iAD to replace prices](https://github.com/kkdai/iOS-APP-FBAlbums/issues/14)
-* Fixed #15 [More page App Icon is not using latest one](https://github.com/kkdai/iOS-APP-FBAlbums/issues/15)
-* Fixed #16 [iAD should hide when full image show.](https://github.com/kkdai/iOS-APP-FBAlbums/issues/16)

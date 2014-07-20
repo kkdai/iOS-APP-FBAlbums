@@ -1,21 +1,43 @@
+![pic1](img/1.1/icon.png) 
+
 #敘述
-  FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8)是一個iOS App，目前支援繁體中文跟英文．<br>
-  It is a easy way to browse your following Facebook page photo album directly. You could also browse the top rate star   Facebook page album. <br>
-  We also provide you to save your favorite page album in your app without press "like" in Facebook. <br>
-  You can also share your favorite album to your friend or share on Facebook. <br>
+FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8)是一個iOS App，目前支援繁體中文跟英文．<br>
+我們提供一個可以讓你更容易觀看粉絲頁面的方式，
+
+  
+
 
 
 #App截圖
 
-請到這裡去看更多的[App截圖](AppScreenShop.md)
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_1.png) <br>
+請到這裡去看更多的[App截圖](AppScreenShop.md) 
+<br>
 
 
-#How to use it
-*  View all popular facebook pages in "Top Rated" and select which one you like.
-*  Browse its albums and you could mark it as favorite.
-*  List all your liked pages in "Search"
-*  List all your favorite albums in "Favorites"
+#如何使用
+
+
+"最高評等"可以讓你查看熱門的粉絲頁面，並且可以點選它來打分數（每位使用者只能加/減一分)．
+
+我們有提供一些粉絲頁面可以讓你去查看以下幾種項目
+
+* "明星"
+* "公眾人物"
+* "記者"
+* 以及網友所分享出來的"網友提供"  
+
+“搜尋" 頁面可以讓你去尋找你已經按贊的粉絲頁面，直接觀看相簿
+
+*  你可以把喜愛的相簿收藏起來，以後可以直接觀看  
+*  你也可以在粉絲頁面旁邊按下分享，把你喜愛的粉絲頁面分享給大家，讓大家都可以在最高評等裡面看到．
+
+"喜好項目"頁面可以讓你去看你所收藏的相簿，一種可以快速地找到你喜愛的相簿的方式
+
+* 你可以看所有你收藏好的像不
+* 透過分享，你可以寄信給你親朋好友，告訴他們你所喜愛的這個相簿   
+
+"其他頁面"顯示作者資料並且可以讓你快速找到這個網站
+
 
 #Support iOS Version
   iOS 5.1 or above
@@ -40,5 +62,6 @@
 * TBC
   * Add support for other album (weibo?)
 
-#issues
-  Please file your issues on our [issues](https://github.com/kkdai/iOS-APP-FBAlbums/issues) if any, thank you.
+#問題回報
+  如果有任何問題，請你到這個地方提出[提出問題](https://github.com/kkdai/iOS-APP-FBAlbums/issues)．
+  如果要查看完整的問題解決清單請看[這裡](issues.md)

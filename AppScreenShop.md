@@ -1,6 +1,20 @@
 #App截圖
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_1.png) <br>
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_2.png) <br>
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_3.png) <br>
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_4.png) <br>
-![pic1](https://raw.githubusercontent.com/kkdai/iOS-APP-FBAlbums/master/img/1.1/1.1_5.png) <br>
+這裡列出比較常用的截圖
+
+
+## 最高評等
+![pic1](img/1.1/1.1_1.png) <br><br><br><br>
+
+
+## 搜尋頁面
+![pic1](img/1.1/1.1_2.png) <br><br><br><br>
+  
+## 喜好收藏頁面
+![pic1](img/1.1/1.1_3.png) <br><br><br><br><br>
+
+##  更多頁面
+![pic1](img/1.1/1.1_4.png) <br><br><br><br><br>
+
+
+##  分享頁面
+![pic1](img/1.1/1.1_5.png) <br>

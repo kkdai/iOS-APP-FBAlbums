@@ -11,3 +11,7 @@
   * Fixed #14 [Add iAD to replace prices](https://github.com/kkdai/iOS-APP-FBAlbums/issues/14)
   * Fixed #15 [More page App Icon is not using latest one](https://github.com/kkdai/iOS-APP-FBAlbums/issues/15)
   * Fixed #16 [iAD should hide when full image show.](https://github.com/kkdai/iOS-APP-FBAlbums/issues/16)
+* 1.2 版本包括以下的修復
+  * 07/24 Fixed [#18 First time "Top Rated" don't have rate](https://github.com/kkdai/iOS-APP-FBAlbums/issues/18)
+  * 07/24 Fixed [#21 App icon has problem in grid line, iPad don't have icon] (https://github.com/kkdai/iOS-APP-FBAlbums/issues/21)
+  * 07/24 Fixed [#22 First launch "Top Rated" will not show until press other catogory](https://github.com/kkdai/iOS-APP-FBAlbums/issues/22)

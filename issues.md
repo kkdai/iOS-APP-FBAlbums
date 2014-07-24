@@ -15,3 +15,4 @@
   * 07/24 Fixed [#18 First time "Top Rated" don't have rate](https://github.com/kkdai/iOS-APP-FBAlbums/issues/18)
   * 07/24 Fixed [#21 App icon has problem in grid line, iPad don't have icon] (https://github.com/kkdai/iOS-APP-FBAlbums/issues/21)
   * 07/24 Fixed [#22 First launch "Top Rated" will not show until press other catogory](https://github.com/kkdai/iOS-APP-FBAlbums/issues/22)
+  * 07/24 Fixed [#17 Not refresh when add "Shared Pages"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/17)

@@ -18,3 +18,4 @@
   * 07/24 Fixed [#17 Not refresh when add "Shared Pages"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/17)
   * 07/26 Fixed [#23 Change web site to button which can open to web site](https://github.com/kkdai/iOS-APP-FBAlbums/issues/23)
   * 07/26 Fixed [#24 Change icon for FB-Like, FB-Check, FB-Share](https://github.com/kkdai/iOS-APP-FBAlbums/issues/24)
+  * 07/26 Fixed [#19 Top rated not sync when first time sync (thumbnail)](https://github.com/kkdai/iOS-APP-FBAlbums/issues/19)

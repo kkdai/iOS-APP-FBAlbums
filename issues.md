@@ -13,7 +13,7 @@
   * Fixed #16 [iAD should hide when full image show.](https://github.com/kkdai/iOS-APP-FBAlbums/issues/16)
 * 1.2 版本包括以下的修復
   * 07/24 Fixed [#18 First time "Top Rated" don't have rate](https://github.com/kkdai/iOS-APP-FBAlbums/issues/18)
-  * 07/24 Fixed [#21 App icon has problem in grid line, iPad don't have icon](#21)
+  * 07/24 Fixed [#21 App icon has problem in grid line, iPad don't have icon](https://github.com/kkdai/iOS-APP-FBAlbums/issues/21)
   * 07/24 Fixed [#22 First launch "Top Rated" will not show until press other catogory](https://github.com/kkdai/iOS-APP-FBAlbums/issues/22)
   * 07/24 Fixed [#17 Not refresh when add "Shared Pages"](https://github.com/kkdai/iOS-APP-FBAlbums/issues/17)
   * 07/26 Fixed [#23 Change web site to button which can open to web site](https://github.com/kkdai/iOS-APP-FBAlbums/issues/23)

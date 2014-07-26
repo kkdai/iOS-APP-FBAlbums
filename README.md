@@ -4,10 +4,6 @@
 FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8)是一個iOS App，目前支援繁體中文跟英文．<br>
 我們提供一個可以讓你更容易觀看粉絲頁面的方式，
 
-  
-
-
-
 #App截圖
 
 請到這裡去看更多的[App截圖](AppScreenShop.md) 
@@ -55,12 +51,17 @@ FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xi
     * User can push your Pages to server for other browsing.(done)
   * iAD support and will low down pricess from 0.99 to 0
     * Support AIP to remove iAD and support author.  
-* V1.2 (Target 2014 end of August)
+* V1.2 (2014 begin of August)
+  * UI Icon resolution increasement.
+  * UI core data reset thumbnail to sync correct.
+  * More bug fixing.
+* V1.3 (2014 end of August))
+  * TBC	
+* TBC
+  * Add support for other album (weibo?)
   * Album loading improvement.
   * Support AIP and add more feature
   * Buffering images
-* TBC
-  * Add support for other album (weibo?)
 
 #問題回報
   如果有任何問題，請你到這個地方提出[提出問題](https://github.com/kkdai/iOS-APP-FBAlbums/issues)．

@@ -29,7 +29,7 @@ FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xi
 
 "喜好項目"頁面可以讓你去看你所收藏的相簿，一種可以快速地找到你喜愛的相簿的方式
 
-* 你可以看所有你收藏好的像不
+* 你可以看所有你收藏好的相簿
 * 透過分享，你可以寄信給你親朋好友，告訴他們你所喜愛的這個相簿   
 
 "其他頁面"顯示作者資料並且可以讓你快速找到這個網站
@@ -55,8 +55,8 @@ FBAlbum(fen-si-xiang-bu)[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xi
   * UI Icon resolution increasement.
   * UI core data reset thumbnail to sync correct.
   * More bug fixing.
-* V1.3 (2014 end of August))
-  * TBC	
+* V1.3 (Wait for review)
+  * iOS8 compatibility
 * TBC
   * Add support for other album (weibo?)
   * Album loading improvement.
